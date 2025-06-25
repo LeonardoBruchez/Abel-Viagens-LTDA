@@ -62,7 +62,7 @@ Para visualizar, basta abrir o arquivo <code>index.html</code> no navegador.
 <ul>
   <li><code>index.html</code> — página principal com todo o conteúdo</li>
   <li><code>/css</code> — arquivos CSS para o estilo do site</li>
-  <li><code>/images</code> — fotos do ônibus, viagens e locais visitados</li>
+  <li><code>/imagens</code> — fotos do ônibus, viagens e locais visitados</li>
 </ul>
 
 ---
